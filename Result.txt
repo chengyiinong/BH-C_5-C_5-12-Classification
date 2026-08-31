@@ -1,0 +1,13 @@
+Formula built with 24114 variables.
+Searching for the 6 expected product-character solutions...
+Solution 1: product-character solution.
+Solution 2: product-character solution.
+Solution 3: product-character solution.
+Solution 4: product-character solution.
+Solution 5: product-character solution.
+Solution 6: product-character solution.
+
+Search complete in 3.06 seconds.
+Total solutions: 6
+ALL SOLUTIONS ARE FROM THE PRODUCT-CHARACTER CONSTRUCTION. 
+LEMMA 5.10 IS TRUE.
