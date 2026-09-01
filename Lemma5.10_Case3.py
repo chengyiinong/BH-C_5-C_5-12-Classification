@@ -2,8 +2,8 @@
 
 We search for group-ring elements
 
-    D = 1 - zeta_3 (x + ... + x^4) - zeta_3^2 (y + ... + y^4)
-        + sum_{1 <= i,j <= 4} a[i,j] x^i y^j,
+    D = 1 - zeta_3 (v + ... + v^4) - zeta_3^2 (u + ... + u^4)
+        + sum_{1 <= i,j <= 4} a[i,j] u^i v^j,
 
 where every a[i,j] is a fourth root of unity and a[1,1] = 1, which corresponds to 
 BH(C_5 x C_5, 12) matrices.  
